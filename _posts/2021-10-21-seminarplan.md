@@ -12,6 +12,7 @@ suppress-bibliography: true
 cover-img: /assets/img/di-tarrazi-v_2-p_132-photos-sarkis.jpg
 tags: [introduction, about, syllabus, bibliography]
 comments: true
+published: false
 ---
 
 Es ist so weit. Wir haben heute einen Seminarplan für die nächsten Sitzungen besprochen, der sich in zwei große Blöcke, nach Zugängen und Fallstudien, teilt. Die thematische Gliederung wird dann noch in Sitzungen unterteilt, da einige Themen für eine einzelne Sitzung zu groß sind.

@@ -8,6 +8,7 @@ bibliography: ../assets/bibliography/bibliography_2021-Massenmedien.csl.json
 lang: de
 suppress-bibliography: true
 comments: true
+published: false
 ---
 
 Passend zu unseren Versuchen uns dem Gegenstand unseres Seminar über die verschiedenen Ansätze aus Global- bzw. Verflechtungsgeschichte, (kritischen) Infrastrukturstudien, Medienarchäologie und Postkolonial Studien zu nähern, habe ich heute auch Brecht's Gedicht "Fragen eines lesensen Arbeiters" erwähnt, dass den von Susan Star angeschnittenen methodologischen Fokus auf die Sichtbarkeitmachung unsichtbarer Arbeit bereits vorgreift.
