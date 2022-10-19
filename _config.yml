@@ -10,7 +10,9 @@ title: 51810
 # Short description of your site
 description: Alles nur Spielerei?
 
-author: Till Grallert
+author:
+  - Till Grallert
+  - Samantha Tirtohusodo
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
