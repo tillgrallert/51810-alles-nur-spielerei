@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Von der Druckerpresse zu Radio und Twitter
-subtitle: Verflechtungsgeschichte(n) der Massenmedien im östlichen Mittelmeerraum seit dem 19. Jahrhundert
+title: Alles nur Spielerei?
+subtitle: Erstellung eines gamifizierten User Surveys für den Scholarly Makerspace der Universitätsbibliothek
 author: Till Grallert
-date: 2021-10-07
+date: 2022-10-19
 cover-img: /assets/img/map-periodicals_middle-east_1855-1929_temp-dist-y_5.gif
 tags: [introduction, about]
 ---
