@@ -14,11 +14,15 @@ Diese Webseite dient zur Dokumentation des Projektseminars "Alles nur Spielerei?
 
 # Das Seminar
 
-> Der Grundgedanke von Makerspaces ist das Teilen von Räumen, Ressourcen und Wissen innerhalb einer Gemeinschaft, welche Einzelpersonen sonst nicht zur Verfügung stünden (Späth, Seidl, und Heinzel 2019, 41)
+> The term black box [...] is a device or system that, for convenience, is described solely in terms of its inputs and outputs. One need not understand anything about what goes on inside such black boxes. One simply brackets them as instruments that perform certain valuable functions. (Winner 1993, 365)
+
+> The best kind of tools are therefore the ones that we make ourselves. (Tenen 2016, 85)
 
 Die Universitätsbibliothek richtet in den kommenden drei Jahren in Zusammenarbeit mit den Lehrstühlen für [Digital History](https://www.geschichte.hu-berlin.de/de/bereiche-und-lehrstuehle/digital-history) am Institut für Geschichte und für [Information Processing and Analytics](https://www.ibi.hu-berlin.de/de/forschung/info_processing_analytics/ipa) am Institut für Bibliotheks- und Informationswissenschaften einen **prototypischen Scholarly Makerspace** ein. Inspiriert von der *maker culture* und der Idee der Makerspaces, die in einigen Bibliotheken bereits etabliert sind (Späth, Seidl, und Heinzel 2019), stellen wir das experimentierende und spielerische "Machen" mit Computern und digitalen Artefakten in das Zentrum des Wissenschaffens (Sayers 2017). Das Ziel ist dabei der gemeinsame Erwerb von *tool literacy* (Werkzeugkompetenz), die, ganz im Sinne Johanna Druckers (2021), in zwei Dimensionen gedacht wird. Zum einen geht es um das ganz konkrete Erlernen von Werkzeugen und computergestützten Verfahren. Zum anderen wird *tool literacy* aber mit dem Fokus auf Werkzeuge und Methoden als Gegenstand der Untersuchung weiter gedacht und mit [*Critical Code Studies*](https://criticalcodestudies.com/) (Marino 2020) und den *Science and Technology Studies* in Beziehung gesetzt. Der *Scholarly Makerspace* adressiert damit zentrale Versprechen der Digitalität und der Digital Humanities: Teilhabe, kritische Reflexion über ein neues epistemisches Paradigma und genuin neue Erkenntnisse für die Geistes- und Kulturwissenschaften. Es soll in den Maschinenraum der Digitalität geschaut und "Black Boxes" (Winner 1993, 365) geöffnet werden, um Wissenschaftler_innen aller Erfahrungshintergründe in die Lage zu versetzen adäquate computergestützten Methoden für ihre je konkreten Forschungsfragen zu wählen und ihre Möglichkeiten für die Exploration und Darstellung um die Gestaltung physischer und digitale Artefakte sowie performante Aspekte zu erweitern (z.b. Staley 2017).
 
-Von den eingangs zitierten Aspekten stellt das Projektseminar die *Gemeinschaft* der Nutzer_innen des *Scholarly Makerspace*s in den Vordergrund. Um diese besser zu identifizieren und kennenzulernen und zugleich den Ansatz der *maker culture* anzuwenden, werden wir gemeinsam einen als Text Adventure gamifizierten Survey entwerfen, implementieren, und durchführen. Gegenstand des Surveys sind Fragen nach den Hintergründen der Nutzer_innen (was bringen sie mit?) und ihren unmittelbaren Bedürfnissen im Umgang mit und für den Zugang zu computationellen Methoden (was brauchen sie?). Das resultierende Computerspiel soll dabei an uns und unseren Peers getestet und damit der Survey auch erstmalig durchgeführt und ausgewertet werden. Die Ergebnisse und ein Projektbericht sollen offen und unter der Autor_innenschaft der Studierenden veröffentlicht werden. Anschließend wird das Text Adventure vom *Scholarly Makerspace* für den Erstkontakt mit Nutzer_innen weitergenutzt.
+> Der Grundgedanke von Makerspaces ist das Teilen von Räumen, Ressourcen und Wissen innerhalb einer Gemeinschaft, welche Einzelpersonen sonst nicht zur Verfügung stünden. (Späth, Seidl, und Heinzel 2019, 41)
+
+Von den zitierten Aspekten stellt das Projektseminar die *Gemeinschaft* der Nutzer_innen des *Scholarly Makerspace*s in den Vordergrund. Um diese besser zu identifizieren und kennenzulernen und zugleich den Ansatz der *maker culture* anzuwenden, werden wir gemeinsam einen als Text Adventure gamifizierten Survey entwerfen, implementieren, und durchführen. Gegenstand des Surveys sind Fragen nach den Hintergründen der Nutzer_innen (was bringen sie mit?) und ihren unmittelbaren Bedürfnissen im Umgang mit und für den Zugang zu computationellen Methoden (was brauchen sie?). Das resultierende Computerspiel soll dabei an uns und unseren Peers getestet und damit der Survey auch erstmalig durchgeführt und ausgewertet werden. Die Ergebnisse und ein Projektbericht sollen offen und unter der Autor_innenschaft der Studierenden veröffentlicht werden. Anschließend wird das Text Adventure vom *Scholarly Makerspace* für den Erstkontakt mit Nutzer_innen weitergenutzt.
 
 # Praktisches
 
@@ -134,6 +138,10 @@ Späth, Katharina, Tobias Seidl, und Viktoria Heinzel. 2019. „Verbreitung und 
 
 ::: {#ref-Staley2017MakerTurnHumanities .csl-entry}
 Staley, David. 2017. „On the ‚Maker Turn' in the Humanities". In *Making Things and Drawing Boundaries*, herausgegeben von Jentery Sayers, 32--41. Experiments in the Digital Humanities. University of Minnesota Press. <https://doi.org/10.5749/j.ctt1pwt6wq.5>.
+:::
+
+::: {#ref-Tenen2016BluntInstrumentalism .csl-entry}
+Tenen, Dennis. 2016. „Blunt Instrumentalism: On Tools and Methods". In *Debates in the Digital Humanities*, herausgegeben von Matthew K. Gold und Lauren F. Klein, 83--91. Debates in the Digital Humanities 2. Minneapolis: University of Minnesota Press. <https://doi.org/10.5749/j.ctt1cn6thb.12>.
 :::
 
 ::: {#ref-Winner+1993 .csl-entry}
