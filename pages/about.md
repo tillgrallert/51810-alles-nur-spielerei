@@ -12,18 +12,13 @@ bibliography: /Users/Shared/HUBox/FuReSH/assets/bibliography/FuReSH.csl.json
 
 Diese Webseite dient zur Dokumentation des Projektseminars "Alles nur Spielerei? Erstellung eines gamifizierten User Surveys für den Scholarly Makerspace der Universitätsbibliothek" (PSE 51810) am [Institut für Bibliotheks- und Informationswissenschaften](https://www.ibi.hu-berlin.de/) der Humboldt-Universität zu Berlin im Wintersemester 2022/23 sowie zur Kommunikation mit‚ den Studierenden.
 
-
-
 # Das Seminar
 
-> Der Grundgedanke von Makerspaces ist das Teilen von Räumen, Ressourcen und Wissen innerhalb einer Gemeinschaft, welche Einzelpersonen sonst nicht zur Verfügung stünden [@Spath2019Makerspaces, 41]
+> Der Grundgedanke von Makerspaces ist das Teilen von Räumen, Ressourcen und Wissen innerhalb einer Gemeinschaft, welche Einzelpersonen sonst nicht zur Verfügung stünden (Späth, Seidl, und Heinzel 2019, 41)
 
-Die Universitätsbibliothek richtet in den kommenden drei Jahren in Zusammenarbeit mit den Lehrstühlen für [Digital History](https://www.geschichte.hu-berlin.de/de/bereiche-und-lehrstuehle/digital-history) am Institut für Geschichte und für [Information Processing and Analytics](https://www.ibi.hu-berlin.de/de/forschung/info_processing_analytics/ipa) am Institut für Bibliotheks- und Informationswissenschaften einen **prototypischen Scholarly Makerspace** ein. Inspiriert von der *maker culture* und der Idee der Makerspaces, die in einigen Bibliotheken bereits etabliert sind [@Spath2019Makerspaces], stellen wir das experimentierende und spielerische "Machen" mit Computern und digitalen Artefakten in das Zentrum  des Wissenschaffens [@Sayers2018MakingThings]. 
-Das Ziel ist dabei der gemeinsame Erwerb von *tool literacy* (Werkzeugkompetenz), die, ganz im Sinne Johanna Druckers [-@Drucker2021DHCoursebook], in zwei Dimensionen gedacht wird. Zum einen geht es um das ganz konkrete Erlernen von Werkzeugen und computergestützten Verfahren. Zum anderen wird *tool literacy* aber mit dem Fokus auf Werkzeuge und Methoden als Gegenstand der Untersuchung weiter gedacht und mit  [*Critical Code Studies*](https://criticalcodestudies.com/) [@Marino2020CriticalCodeStudies] und den *Science and Technology Studies* in Beziehung gesetzt. 
-Der *Scholarly Makerspace*  adressiert damit zentrale Versprechen der Digitalität und der Digital Humanities: Teilhabe, kritische Reflexion über ein neues epistemisches Paradigma und genuin neue Erkenntnisse für die Geistes- und Kulturwissenschaften. Es soll in den Maschinenraum der Digitalität geschaut und "Black Boxes" [@Winner+1993, 365] geöffnet werden, um Wissenschaftler_innen aller Erfahrungshintergründe in die Lage zu versetzen adäquate computergestützten Methoden für ihre je konkreten Forschungsfragen zu wählen und ihre Möglichkeiten für die Exploration und Darstellung um die Gestaltung physischer und digitale Artefakte sowie performante Aspekte zu erweitern [z.b. @Staley2017MakerTurnHumanities]. 
+Die Universitätsbibliothek richtet in den kommenden drei Jahren in Zusammenarbeit mit den Lehrstühlen für [Digital History](https://www.geschichte.hu-berlin.de/de/bereiche-und-lehrstuehle/digital-history) am Institut für Geschichte und für [Information Processing and Analytics](https://www.ibi.hu-berlin.de/de/forschung/info_processing_analytics/ipa) am Institut für Bibliotheks- und Informationswissenschaften einen **prototypischen Scholarly Makerspace** ein. Inspiriert von der *maker culture* und der Idee der Makerspaces, die in einigen Bibliotheken bereits etabliert sind (Späth, Seidl, und Heinzel 2019), stellen wir das experimentierende und spielerische "Machen" mit Computern und digitalen Artefakten in das Zentrum des Wissenschaffens (Sayers 2017). Das Ziel ist dabei der gemeinsame Erwerb von *tool literacy* (Werkzeugkompetenz), die, ganz im Sinne Johanna Druckers (2021), in zwei Dimensionen gedacht wird. Zum einen geht es um das ganz konkrete Erlernen von Werkzeugen und computergestützten Verfahren. Zum anderen wird *tool literacy* aber mit dem Fokus auf Werkzeuge und Methoden als Gegenstand der Untersuchung weiter gedacht und mit [*Critical Code Studies*](https://criticalcodestudies.com/) (Marino 2020) und den *Science and Technology Studies* in Beziehung gesetzt. Der *Scholarly Makerspace* adressiert damit zentrale Versprechen der Digitalität und der Digital Humanities: Teilhabe, kritische Reflexion über ein neues epistemisches Paradigma und genuin neue Erkenntnisse für die Geistes- und Kulturwissenschaften. Es soll in den Maschinenraum der Digitalität geschaut und "Black Boxes" (Winner 1993, 365) geöffnet werden, um Wissenschaftler_innen aller Erfahrungshintergründe in die Lage zu versetzen adäquate computergestützten Methoden für ihre je konkreten Forschungsfragen zu wählen und ihre Möglichkeiten für die Exploration und Darstellung um die Gestaltung physischer und digitale Artefakte sowie performante Aspekte zu erweitern (z.b. Staley 2017).
 
-Von den eingangs zitierten Aspekten stellt das Projektseminar die *Gemeinschaft* der Nutzer_innen des *Scholarly Makerspace*s in den Vordergrund. Um diese besser zu identifizieren und kennenzulernen und zugleich den Ansatz der *maker culture* anzuwenden, werden wir gemeinsam einen als Text Adventure gamifizierten Survey entwerfen, implementieren, und durchführen. Gegenstand des Surveys sind Fragen nach den Hintergründen der Nutzer_innen (was bringen sie mit?) und ihren unmittelbaren Bedürfnissen im Umgang mit und für den Zugang zu computationellen Methoden (was brauchen sie?). Das resultierende Computerspiel soll dabei an uns und unseren Peers getestet und damit der Survey auch erstmalig durchgeführt  und ausgewertet werden. Die Ergebnisse und ein Projektbericht sollen offen und unter der Autor_innenschaft der Studierenden veröffentlicht werden. Anschließend wird das Text Adventure vom *Scholarly Makerspace* für den Erstkontakt mit Nutzer_innen weitergenutzt.
-
+Von den eingangs zitierten Aspekten stellt das Projektseminar die *Gemeinschaft* der Nutzer_innen des *Scholarly Makerspace*s in den Vordergrund. Um diese besser zu identifizieren und kennenzulernen und zugleich den Ansatz der *maker culture* anzuwenden, werden wir gemeinsam einen als Text Adventure gamifizierten Survey entwerfen, implementieren, und durchführen. Gegenstand des Surveys sind Fragen nach den Hintergründen der Nutzer_innen (was bringen sie mit?) und ihren unmittelbaren Bedürfnissen im Umgang mit und für den Zugang zu computationellen Methoden (was brauchen sie?). Das resultierende Computerspiel soll dabei an uns und unseren Peers getestet und damit der Survey auch erstmalig durchgeführt und ausgewertet werden. Die Ergebnisse und ein Projektbericht sollen offen und unter der Autor_innenschaft der Studierenden veröffentlicht werden. Anschließend wird das Text Adventure vom *Scholarly Makerspace* für den Erstkontakt mit Nutzer_innen weitergenutzt.
 
 # Praktisches
 
@@ -49,7 +44,7 @@ Damit die Kommunikation gut funktioniert, habe ich folgende Platformen und Kanä
 
 Für die Erleichterung der gemeinsamen Lektüre, d.h. das Lesen und Diskutieren von Texten, schlagen wir folgenden Zugang vor:
 
-### 1. Schritt
+### 1. Schritt {#schritt}
 
 Zunächst steht Ihre ganz individuelle Reaktion auf einen Text. Dabei schlage ich vor, sich von Shawn Grahams "3Ws" leiten zu lassen:
 
@@ -57,7 +52,7 @@ Zunächst steht Ihre ganz individuelle Reaktion auf einen Text. Dabei schlage ic
 - *wonderful*: was erlaubt Ihnen Ihre Forschung, Disziplin etc. in einem aufregend neuen Licht zu sehen?
 - *worrying*: was erschüttert ihre Kernannahmen, bisher Geglaubtes etc. oder was kommt Ihnen fragwürdig vor?
 
-### 2. Schritt
+### 2. Schritt {#schritt-1}
 
 Ein zweites Set an Fragen ist dann spezifischer und zielt auf eine Zusammenfassung ab:
 
@@ -70,7 +65,7 @@ Ein zweites Set an Fragen ist dann spezifischer und zielt auf eine Zusammenfassu
 - Welche wissenschaftliche Literatur wird aufgegriffen?
 - Was sind die Quellen?
 
-### 3. Schritt
+### 3. Schritt {#schritt-2}
 
 Und schließlich gibt es ein drittes Set an Fragen, die auf die Bewertung und Einordnung eines Textes abzielen:
 
@@ -87,16 +82,16 @@ Es ist eine gute Praxis diese Fragen für jeden Text kurz schriftlich auf maxima
 Sie sind in keiner Weise verpflichtet oder angehalten für öffentlich sichtbare Teile dieses Seminars ihren eigenen Namen zu verwenden. Pseudonyme sind okay und Sie müssen uns gegenüber Ihre Präferenzen nicht rechtfertigen. Allein Ihr persönliches Empfinden ist hier ausschlaggebend. Schützen Sie unter allen Umständen Ihre persönliche Sicherheit in allem was Sie online tun.
 
 # Grundsätze des gemeinsamen Umgangs
+
 ## Gute Wissenschaftliche Praxis
 
-Teil der universitären Lehre ist es die Prinzipien der guten wissenschaftlichen Praxis zu vermitteln. Außerdem sind auch Sie als Studierende auf die "Satzung
-der Humboldt-Universität zu Berlin zur Sicherung guter wissenschaftlicher Praxis und zum Umgang mit Vorwürfen wissenschaftlichen Fehlverhaltens" ([PDF](https://gremien.hu-berlin.de/de/amb/2014/06/06_2014_20140130%20Beschlussversion%20Satzung%20Wissenschaftliches%20Fehlverhalten_DRUCK.pdf)) verplichtet.
+Teil der universitären Lehre ist es die Prinzipien der guten wissenschaftlichen Praxis zu vermitteln. Außerdem sind auch Sie als Studierende auf die "Satzung der Humboldt-Universität zu Berlin zur Sicherung guter wissenschaftlicher Praxis und zum Umgang mit Vorwürfen wissenschaftlichen Fehlverhaltens" ([PDF](https://gremien.hu-berlin.de/de/amb/2014/06/06_2014_20140130%20Beschlussversion%20Satzung%20Wissenschaftliches%20Fehlverhalten_DRUCK.pdf)) verplichtet.
 
->Zu den Prinzipien gehört es insbesondere, lege artis zu arbeiten, strikte Ehrlichkeit im Hinblick auf die eigenen und die Beiträge Dritter zu wahren, alle Ergebnisse konsequent selbst anzuzweifeln sowie einen kritischen Diskurs in der wissenschaftlichen Gemeinschaft zuzulassen und zu fördern. --- Leitlinien der [DFG für wissenschaftliche Integrität](https://wissenschaftliche-integritaet.de/kodex/verpflichtung-auf-die-allgemeinen-prinzipien/)
+> Zu den Prinzipien gehört es insbesondere, lege artis zu arbeiten, strikte Ehrlichkeit im Hinblick auf die eigenen und die Beiträge Dritter zu wahren, alle Ergebnisse konsequent selbst anzuzweifeln sowie einen kritischen Diskurs in der wissenschaftlichen Gemeinschaft zuzulassen und zu fördern. --- Leitlinien der [DFG für wissenschaftliche Integrität](https://wissenschaftliche-integritaet.de/kodex/verpflichtung-auf-die-allgemeinen-prinzipien/)
 
 ## Kollegialität und großzügiges Denken
 
->Generous Thinking [begins] by proposing that rooting the humanities in generosity, and in particular in the practices of thinking *with* rather than reflexively *against* both the people and the materials with which we work, might invite more productive relationships and conversations not just among scholars but between scholars and the surrounding community. - Kathleen Fitzpatrick
+> Generous Thinking \[begins\] by proposing that rooting the humanities in generosity, and in particular in the practices of thinking *with* rather than reflexively *against* both the people and the materials with which we work, might invite more productive relationships and conversations not just among scholars but between scholars and the surrounding community. - Kathleen Fitzpatrick
 
 Wir halten Sie zu großzügigem Denken und kollegialen Verhalten an. Begreifen Sie sich untereinander als Gleichrangige (*peers*), lassen Sie sich aufeindander, Ihre Ideen, Anmerkungen etc. ein. Hören Sie zu und versuchen Sie Verbindungen zu Ihrer eigenen Arbeit, zu Disziplinen, Theoriegebäuden, methodischen Ansätzen zu entwickeln in die Gruppe zurückzugeben.
 
@@ -118,3 +113,31 @@ Den [Seminarplan]({% post_url 2022-10-19-seminarplan %}) werden wir im Detail ge
     - In welchem Umfang haben Sie sich bisher mit der Geschichte der Gesellschaften des östlichen Mittelmeerraumes beschäftigt?
     - Was ist Ihr Interesse an den im Ankündigungstext angeschnittenen Themen?
     - Welche Aspekte möchten Sie vertiefen? Machen Sie am besten GLEICH HIER eine Annotation mit diesem Inhalt. Nutzen Sie auch die Gelegenheit, Themen und Aspekte anzumerken, die Ihnen fehlen. 
+
+## Literatur {#refs .references .csl-bib-body .hanging-indent}
+
+::: {#ref-Drucker2021DHCoursebook .csl-entry}
+Drucker, Johanna. 2021. *The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship*. Abingdon: Routledge. <https://doi.org/10.4324/9781003106531>.
+:::
+
+::: {#ref-Marino2020CriticalCodeStudies .csl-entry}
+Marino, Mark C. 2020. *Critical Code Studies*. Cambridge: MIT Press.
+:::
+
+::: {#ref-Sayers2018MakingThings .csl-entry}
+Sayers, Jentery, Hrsg. 2017. *Making Things and Drawing Boundaries: Experiments in the Digital Humanities*. Debates in the Digital Humanities 3. Minneapolis: University of Minnesota Press. <https://dhdebates.gc.cuny.edu/projects/making-things-and-drawing-boundaries>.
+:::
+
+::: {#ref-Spath2019Makerspaces .csl-entry}
+Späth, Katharina, Tobias Seidl, und Viktoria Heinzel. 2019. „Verbreitung und Ausgestaltung von Makerspaces an Universitäten in Deutschland". *o-bib. Das offene Bibliotheksjournal* 6 (3): 40--55. <https://doi.org/10.5282/o-bib/2019h3s40-55>.
+:::
+
+::: {#ref-Staley2017MakerTurnHumanities .csl-entry}
+Staley, David. 2017. „On the ‚Maker Turn' in the Humanities". In *Making Things and Drawing Boundaries*, herausgegeben von Jentery Sayers, 32--41. Experiments in the Digital Humanities. University of Minnesota Press. <https://doi.org/10.5749/j.ctt1pwt6wq.5>.
+:::
+
+::: {#ref-Winner+1993 .csl-entry}
+Winner, Langdon. 1993. „Upon opening the black box and finding it empty: Social constructivism and the philosophy of technology". *Science, Technology, & Human Values* 18 (3): 362--78. <https://doi.org/10.1177/016224399301800306>.
+:::
+:::
+
