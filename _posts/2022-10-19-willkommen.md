@@ -19,6 +19,8 @@ Ich habe in Berlin und London Islamwissenschaft, Judaistik, VWL und Geschichte s
 
 Meine Forschung und Lehre fokussiert auf die Sozialgeschichte von Infrastrukturen und Technologien im mehrheitlich arabisch-sprachigen östlichen und südlichen Mittelmeerraum seit dem 19. Jahrhundert. Angefangen von der Straße als zentralem Ermöglichungsraum urbaner Gesellschaften, dessen Transformation in einen dezidiert öffentlichen und durch die öffentliche Hand gestalteten Raum, sowie dessen Übernahme durch privates ausländisches Kapital in Form von Straßenbahngesellschaften und die daraus resultierenden sozialen Protestformen, hin zu Entwicklung und Wandel von (Massen)medien von Buchdruck und Presse über Radio bis zur Digitalität und Socialmediaplatformen. 
 
-Ich bin nicht Insitut für Bibliotheks- und Informationswissenschaften angestellt, sondern habe einen Lehrauftrag für unser Seminar. Ich bin daher mit den instutionellen Details und Formalia in Ihren Studiengängen nicht vertraut und auf Ihre Hilfe und konstruktive Mitarbeit angewiesen. 
+Ich bin nicht Institut für Bibliotheks- und Informationswissenschaften angestellt, sondern habe einen Lehrauftrag für unser Seminar. Ich bin daher mit den instutionellen Details und Formalia in Ihren Studiengängen nicht vertraut und auf Ihre Hilfe und konstruktive Mitarbeit angewiesen.
+
+Mehr zu mir und meinen Projekten findet sich [hier](https://tillgrallert.github.io). 
 
 ## Samantha Tirtohusodo
