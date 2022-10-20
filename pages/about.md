@@ -6,6 +6,8 @@ author: Till Grallert
 date: 2022-10-19
 cover-img: /assets/img/colossal-cave.jpg
 tags: [introduction, about]
+lang: de
+bibliography: https://furesh.github.io/slides/assets/bibliography/FuReSH.csl.json
 ---
 
 Diese Webseite dient zur Dokumentation des Projektseminars "Alles nur Spielerei? Erstellung eines gamifizierten User Surveys für den Scholarly Makerspace der Universitätsbibliothek" (PSE 51810) am [Institut für Bibliotheks- und Informationswissenschaften](https://www.ibi.hu-berlin.de/) der Humboldt-Universität zu Berlin im Wintersemester 2022/23 sowie zur Kommunikation mit‚ den Studierenden.
@@ -40,7 +42,7 @@ Damit die Kommunikation gut funktioniert, habe ich folgende Platformen und Kanä
 - Zur gemeinsamen Literaturrecherche und zum Teilen von Literaturhinweisen gibt es eine [Zotero Gruppe](https://www.zotero.org/groups/51810-alles-nur-spielerei). Diese ist öffentlich einsehbar, zum Bearbeiten und Einbinden in Ihre eigenen Zotero-Bibliotheken benötigen Sie allerdings ein Konto, das Sie unter <https://zotero.org> einrichten können. Bitte schicken Sie mir Ihre Kontonamen via Email, damit ich Sie zu dieser Zotero Gruppe hinzufügen kann.
 - Zur Annotation von online verfügbaren Materialien benutzen wir [Hypothesis](https://web.hypothes.is/
 ). Dazu benötigen Sie ein Konto, das Sie unter <https://web.hypothes.is/> einrichten können. Bitte machen Sie alle Annotationen als Mitglied der Gruppe [`51810-alles-nur-spielerei`](https://hypothes.is/groups/a2AopLj2/57-523-massenmedien). 
-- Zur asynchronen, geschützen Kommunikation zwischen allen Kursteilnehmer_innen jenseits von Emails, haben ich einen [Element](https://discord.com)-Server aufgesetzt. Dieser erlaubt Chats und Videokonferenzen etc. ähnlich wie Slack, aber deutlich schlanker und DSGVO-konform. Einen Einladungslink werde ich Ihnen via Email zusenden.
+- Zur asynchronen, geschützen Kommunikation zwischen allen Kursteilnehmer_innen jenseits von Emails, haben wir einen [Element](https://discord.com)-Server aufgesetzt. Dieser erlaubt Chats und Videokonferenzen etc. ähnlich wie Slack, aber deutlich schlanker und DSGVO-konform. Einen Einladungslink werde ich Ihnen via Email zusenden.
 - Sie brauchen ein Bibliothekskonto. Machen Sie sich mit den Dienstleistungen und dem Katalog bekannt.
 
 ## Lektüre
@@ -87,7 +89,8 @@ Sie sind in keiner Weise verpflichtet oder angehalten für öffentlich sichtbare
 # Grundsätze des gemeinsamen Umgangs
 ## Gute Wissenschaftliche Praxis
 
-Teil der universitären Lehre ist es die Prinzipien der guten wissenschaftlichen Praxis zu vermitteln. Außerdem sind auch Sie als Studierende auf die "Satzung Satzung zur Sicherung Guter wissenschaftlicher Praxis und zur Vermeidung wissenschaftlichen Fehlverhaltens an der Universität Hamburg" ([PDF](https://www.fid.uni-hamburg.de/satzung-gute-wissenschaftliche-praxis.pdf)) verplichtet.
+Teil der universitären Lehre ist es die Prinzipien der guten wissenschaftlichen Praxis zu vermitteln. Außerdem sind auch Sie als Studierende auf die "Satzung
+der Humboldt-Universität zu Berlin zur Sicherung guter wissenschaftlicher Praxis und zum Umgang mit Vorwürfen wissenschaftlichen Fehlverhaltens" ([PDF](https://gremien.hu-berlin.de/de/amb/2014/06/06_2014_20140130%20Beschlussversion%20Satzung%20Wissenschaftliches%20Fehlverhalten_DRUCK.pdf)) verplichtet.
 
 >Zu den Prinzipien gehört es insbesondere, lege artis zu arbeiten, strikte Ehrlichkeit im Hinblick auf die eigenen und die Beiträge Dritter zu wahren, alle Ergebnisse konsequent selbst anzuzweifeln sowie einen kritischen Diskurs in der wissenschaftlichen Gemeinschaft zuzulassen und zu fördern. --- Leitlinien der [DFG für wissenschaftliche Integrität](https://wissenschaftliche-integritaet.de/kodex/verpflichtung-auf-die-allgemeinen-prinzipien/)
 
@@ -95,7 +98,7 @@ Teil der universitären Lehre ist es die Prinzipien der guten wissenschaftlichen
 
 >Generous Thinking [begins] by proposing that rooting the humanities in generosity, and in particular in the practices of thinking *with* rather than reflexively *against* both the people and the materials with which we work, might invite more productive relationships and conversations not just among scholars but between scholars and the surrounding community. - Kathleen Fitzpatrick
 
-Ich halte Sie zu großzügigem Denken und kollegialen Verhalten an. Begreifen Sie sich untereinander als Gleichrangige (*peers*), lassen Sie sich aufeindander, Ihre Ideen, Anmerkungen etc. ein. Hören Sie zu und versuchen Sie Verbindungen zu Ihrer eigenen Arbeit, zu Disziplinen, Theoriegebäuden, methodischen Ansätzen zu entwickeln in die Gruppe zurückzugeben.
+Wir halten Sie zu großzügigem Denken und kollegialen Verhalten an. Begreifen Sie sich untereinander als Gleichrangige (*peers*), lassen Sie sich aufeindander, Ihre Ideen, Anmerkungen etc. ein. Hören Sie zu und versuchen Sie Verbindungen zu Ihrer eigenen Arbeit, zu Disziplinen, Theoriegebäuden, methodischen Ansätzen zu entwickeln in die Gruppe zurückzugeben.
 
 Kollegialität und Großzügigkeit bedeutet auch, für alle Sitzungen vorbereitet zu sein und aktiv teilzunehmen.
 
