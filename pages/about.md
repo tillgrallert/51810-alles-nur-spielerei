@@ -37,7 +37,7 @@ Das Seminar findet vom 21. Oktober 2022 bis 10. Februar 2023 an 8 Freitagen zwis
 Damit die Kommunikation gut funktioniert, habe ich folgende Platformen und Kanäle eingerichtet, für die Sie kostenfreie Konten anlegen müssen (Pseudonyme sind okay. Siehe den nächsten Punkt).
 
 - Für die hybride Teilnahme an den Sitzungen über Zoom müssen Sie den Zoom-Client für Ihren Computer oder Smartphone unter <https://zoom.us/download> herunterladen und installieren, sowie mit ihrem Benutzer_innen-Konto von der HU angemeldet sein.
-- Es wird eine [Webseite](http://tillgrallert.github.io/51810-alles-nur-spielerei/) für den Kurs geben, die wir im Lauf des Semesters mit Inhalten füllen. Dort wird z.B. diese Email und der Syllabus dokumentiert werden.
+- Es gibt eine [Webseite](http://tillgrallert.github.io/51810-alles-nur-spielerei/) für den Kurs, die wir im Lauf des Semesters mit Inhalten füllen. Dort wird z.B. der Syllabus dokumentiert werden und Raum für die erste Publikation der Berichte sein.
 - Zur gemeinsamen Literaturrecherche und zum Teilen von Literaturhinweisen gibt es eine [Zotero Gruppe](https://www.zotero.org/groups/51810-alles-nur-spielerei). Diese ist öffentlich einsehbar, zum Bearbeiten und Einbinden in Ihre eigenen Zotero-Bibliotheken benötigen Sie allerdings ein Konto, das Sie unter <https://zotero.org> einrichten können. Bitte schicken Sie mir Ihre Kontonamen via Email, damit ich Sie zu dieser Zotero Gruppe hinzufügen kann.
 - Zur Annotation von online verfügbaren Materialien benutzen wir [Hypothesis](https://web.hypothes.is/
 ). Dazu benötigen Sie ein Konto, das Sie unter <https://web.hypothes.is/> einrichten können. Bitte machen Sie alle Annotationen als Mitglied der Gruppe [`51810-alles-nur-spielerei`](https://hypothes.is/groups/a2AopLj2/57-523-massenmedien). 
@@ -95,7 +95,7 @@ Teil der universitären Lehre ist es die Prinzipien der guten wissenschaftlichen
 
 ## Kollegialität und großzügiges Denken
 
-> Generous Thinking \[begins\] by proposing that rooting the humanities in generosity, and in particular in the practices of thinking *with* rather than reflexively *against* both the people and the materials with which we work, might invite more productive relationships and conversations not just among scholars but between scholars and the surrounding community. - Kathleen Fitzpatrick
+> Generous Thinking \[begins\] by proposing that rooting the humanities in generosity, and in particular in the practices of thinking *with* rather than reflexively *against* both the people and the materials with which we work, might invite more productive relationships and conversations not just among scholars but between scholars and the surrounding community. [@Fitzpatrick2016GenerousThinking]
 
 Wir halten Sie zu großzügigem Denken und kollegialen Verhalten an. Begreifen Sie sich untereinander als Gleichrangige (*peers*), lassen Sie sich aufeindander, Ihre Ideen, Anmerkungen etc. ein. Hören Sie zu und versuchen Sie Verbindungen zu Ihrer eigenen Arbeit, zu Disziplinen, Theoriegebäuden, methodischen Ansätzen zu entwickeln in die Gruppe zurückzugeben.
 
@@ -112,39 +112,38 @@ Den [Seminarplan]({% post_url 2022-10-19-seminarplan %}) werden wir im Detail ge
 1. Richten Sie die notwendigen Konten ein.
 2. Erkunden Sie diese Webseite und annotieren Sie diese. Bitte beachten Sie, dass alle Ihre Annotationen Teil der Gruppe [`51810-alles-nur-spielerei`](https://hypothes.is/groups/a2AopLj2/57-523-massenmedien) sein sollten.
 3. Bereiten Sie sich auf eine kurze Vorstellungsrunde vor, die uns helfen soll, die Richtung und Schwerpunkte des Seminars gemeinsam zu entwickeln. Dies sollte entlang folgender Fragen geschehen: 
-    - Welche Fächer studieren Sie mit welchen Schwerpunkten und wie lange schon?
-    - Welche Sprachkenntnisse haben Sie?
-    - In welchem Umfang haben Sie sich bisher mit der Geschichte der Gesellschaften des östlichen Mittelmeerraumes beschäftigt?
-    - Was ist Ihr Interesse an den im Ankündigungstext angeschnittenen Themen?
-    - Welche Aspekte möchten Sie vertiefen? Machen Sie am besten GLEICH HIER eine Annotation mit diesem Inhalt. Nutzen Sie auch die Gelegenheit, Themen und Aspekte anzumerken, die Ihnen fehlen. 
+    * Wo kommen sie her? 
+    * Was bringen sie an Spielerfahrungen mit?
+    * Was können sie mit Digitalität und Digital Humanities anfangen?
+    * Was erwarten Sie von dem Projektseminar?
 
-## Literatur {#refs .references .csl-bib-body .hanging-indent}
+## Literatur {#refs}
 
-::: {#ref-Drucker2021DHCoursebook .csl-entry}
+::: {#ref-Drucker2021DHCoursebook Winner+1993}
 Drucker, Johanna. 2021. *The Digital Humanities Coursebook: An Introduction to Digital Methods for Research and Scholarship*. Abingdon: Routledge. <https://doi.org/10.4324/9781003106531>.
 :::
 
-::: {#ref-Marino2020CriticalCodeStudies .csl-entry}
+::: {#ref-Marino2020CriticalCodeStudies Winner+1993}
 Marino, Mark C. 2020. *Critical Code Studies*. Cambridge: MIT Press.
 :::
 
-::: {#ref-Sayers2018MakingThings .csl-entry}
+::: {#ref-Sayers2018MakingThings Winner+1993}
 Sayers, Jentery, Hrsg. 2017. *Making Things and Drawing Boundaries: Experiments in the Digital Humanities*. Debates in the Digital Humanities 3. Minneapolis: University of Minnesota Press. <https://dhdebates.gc.cuny.edu/projects/making-things-and-drawing-boundaries>.
 :::
 
-::: {#ref-Spath2019Makerspaces .csl-entry}
+::: {#ref-Spath2019Makerspaces Winner+1993}
 Späth, Katharina, Tobias Seidl, und Viktoria Heinzel. 2019. „Verbreitung und Ausgestaltung von Makerspaces an Universitäten in Deutschland". *o-bib. Das offene Bibliotheksjournal* 6 (3): 40--55. <https://doi.org/10.5282/o-bib/2019h3s40-55>.
 :::
 
-::: {#ref-Staley2017MakerTurnHumanities .csl-entry}
+::: {#ref-Staley2017MakerTurnHumanities Winner+1993}
 Staley, David. 2017. „On the ‚Maker Turn' in the Humanities". In *Making Things and Drawing Boundaries*, herausgegeben von Jentery Sayers, 32--41. Experiments in the Digital Humanities. University of Minnesota Press. <https://doi.org/10.5749/j.ctt1pwt6wq.5>.
 :::
 
-::: {#ref-Tenen2016BluntInstrumentalism .csl-entry}
+::: {#ref-Tenen2016BluntInstrumentalism Winner+1993}
 Tenen, Dennis. 2016. „Blunt Instrumentalism: On Tools and Methods". In *Debates in the Digital Humanities*, herausgegeben von Matthew K. Gold und Lauren F. Klein, 83--91. Debates in the Digital Humanities 2. Minneapolis: University of Minnesota Press. <https://doi.org/10.5749/j.ctt1cn6thb.12>.
 :::
 
-::: {#ref-Winner+1993 .csl-entry}
+::: {#ref-Winner+1993 Winner+1993}
 Winner, Langdon. 1993. „Upon opening the black box and finding it empty: Social constructivism and the philosophy of technology". *Science, Technology, & Human Values* 18 (3): 362--78. <https://doi.org/10.1177/016224399301800306>.
 :::
 :::
