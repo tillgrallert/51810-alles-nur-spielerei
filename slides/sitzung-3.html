@@ -265,7 +265,8 @@
                     h2,
                     h3,
                     h4,
-                    h5 {
+                    h5,
+                    th {
                         /*  note that only the first two are typewriter fonts, which might not be available on all systems   */
                     /*    font-family: PTSans, "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;*/
                         font-family: HeptaSlab, "American Typewriter", "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
@@ -1123,6 +1124,11 @@
                         /*font-size: 0.8em;*/
                         border-collapse: collapse;
                     }
+                    th {
+                        border-bottom-width: 2px;
+                        border-bottom-style: double;
+                        border-bottom-color: black;
+                    }
                     td,
                     th {
                         padding: 0.2em
@@ -1241,6 +1247,14 @@
                     }
                     div.references p {
                         margin: 5px 0px;
+                    }
+                    /* alerts */
+                    div.alert {
+                        border-width: 1px;
+                        border-style: solid;
+                        border-color: red;
+                        margin-left: 2em;
+                        border-left-width: 1em;
                     }
                     /*
                      hide images for work around for save as bug
@@ -1362,24 +1376,32 @@ Tirtohusodo            </p>
                   </div>
       </div>
         </section>
-                
-        <section id="rückblick" class="title-slide slide level1">
+
+        <section class="slide level1">
+
+        <h2 id="überblick-dh-und-der-scholarly-makerspace">Überblick
+        <br/>DH und der Scholarly Makerspace</h2>
+        <ul>
+        <li>kurzer Rückblick</li>
+        <li>Diskussion auf Basis Ihrer Vorbereitungen</li>
+        <li>Input von unserer Seite</li>
+        <li>Hands-on Digital Humanities!</li>
+        <li>kurzer Ausblick</li>
+        </ul>
+        </section>
+        <section id="rückblick" class="slide level1">
         <h1>Rückblick</h1>
-
+        <h2
+        id="was-können-sie-mit-digitalität-und-digital-humanities-anfangen">Was
+        können Sie mit Digitalität und Digital Humanities anfangen?</h2>
+        <p><img
+        data-src="../assets/img/sitzung_1/digitalität.jpeg" /></p>
         </section>
-
-        <section>
         <section id="heute-dh-und-der-scholarly-makerspace"
-        class="title-slide slide level1">
+        class="slide level1">
         <h1>Heute <br/>DH und der Scholarly Makerspace</h1>
-
-        </section>
-        <section id="überblick" class="slide level2">
-        <h2>Überblick</h2>
-        </section>
-        <section id="ihre-aufgabe-zu-dieser-sitzung"
-        class="slide level2">
-        <h2>Ihre Aufgabe zu dieser Sitzung</h2>
+        <h2 id="ihre-aufgabe-zu-dieser-sitzung">Ihre Aufgabe zu dieser
+        Sitzung</h2>
         <div class="columns">
         <div class="column">
         <h3 id="recherche">Recherche</h3>
@@ -1400,26 +1422,31 @@ Tirtohusodo            </p>
         </ul>
         </div>
         </div>
-        </section></section>
-        <section>
-        <section id="ausblick-16.-dezember"
-        class="title-slide slide level1">
+        <aside class="notes">
+        <ul>
+        <li>im Rückgriff auf letzte Sitzung habe ich offensichtlich eine
+        Suggestivfrage gestellt</li>
+        </ul>
+        </aside>
+        </section>
+        <section id="input" class="slide level1">
+        <h1>Input</h1>
+        </section>
+        <section id="hands-on-digital-humanities" class="slide level1">
+        <h1>Hands-on <em>Digital Humanities</em></h1>
+        <p><a
+        href="https://tillgrallert.github.io/slides/plain-text/">Plain-text
+        und Kommandozeile: Digital Humanities und die (Wieder-)Aneignung
+        der Produktionsmittel</a></p>
+        </section>
+        <section id="ausblick-16.-dezember" class="slide level1">
         <h1>Ausblick 16. Dezember</h1>
-
+        <h2 id="themen">Themen</h2>
+        <h2 id="aufgaben">Aufgaben</h2>
         </section>
-        <section id="themen" class="slide level2">
-        <h2>Themen</h2>
-        </section>
-        <section id="aufgaben" class="slide level2">
-        <h2>Aufgaben</h2>
-        </section></section>
-        <section>
-        <section id="schluß" class="title-slide slide level1">
+        <section id="schluß" class="slide level1">
         <h1>Schluß</h1>
-
-        </section>
-        <section id="refs" class="slide level2 unnumbered">
-        <h2 class="unnumbered">Literatur</h2>
+        <h2 class="unnumbered" id="refs">Literatur</h2>
         <div id="refs" class="references csl-bib-body hanging-indent"
         role="doc-bibliography">
         <div id="ref-JannidisEtAl2017DigitalHumanities"
@@ -1436,7 +1463,7 @@ Tirtohusodo            </p>
         href="https://dguw.hypotheses.org/257">https://dguw.hypotheses.org/257</a>.
         </div>
         </div>
-        </section></section>
+        </section>
       </div>
     </div>
 
